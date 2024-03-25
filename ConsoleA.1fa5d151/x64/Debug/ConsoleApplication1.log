@@ -1,0 +1,48 @@
+﻿  ConsoleApplication1.cpp
+D:\Courses\programming\mohamed abo_hadhood c++\course 11 oop2\Bank System\ConsoleApplication1\Header Files\clsString.h(42,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+D:\Courses\programming\mohamed abo_hadhood c++\course 11 oop2\Bank System\ConsoleApplication1\Header Files\clsString.h(47,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+D:\Courses\programming\mohamed abo_hadhood c++\course 11 oop2\Bank System\ConsoleApplication1\Header Files\clsString.h(59,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+D:\Courses\programming\mohamed abo_hadhood c++\course 11 oop2\Bank System\ConsoleApplication1\Header Files\clsString.h(196,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+D:\Courses\programming\mohamed abo_hadhood c++\course 11 oop2\Bank System\ConsoleApplication1\Header Files\clsString.h(327,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+D:\Courses\programming\mohamed abo_hadhood c++\course 11 oop2\Bank System\ConsoleApplication1\Header Files\clsString.h(375,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+D:\Courses\programming\mohamed abo_hadhood c++\course 11 oop2\Bank System\ConsoleApplication1\Header Files\Bank_User.h(186,19): warning C4805: '==': unsafe mix of type 'CLS_Bank_User::EN_Mode' and type 'bool' in operation
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+D:\Courses\programming\mohamed abo_hadhood c++\course 11 oop2\Bank System\ConsoleApplication1\Header Files\Bank_Client.h(29,40): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+D:\Courses\programming\mohamed abo_hadhood c++\course 11 oop2\Bank System\ConsoleApplication1\Header Files\Bank_Client.h(357,23): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+D:\Courses\programming\mohamed abo_hadhood c++\course 11 oop2\Bank System\ConsoleApplication1\Header Files\Bank_Client.h(369,24): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+D:\Courses\programming\mohamed abo_hadhood c++\course 11 oop2\Bank System\ConsoleApplication1\Header Files\cls_Input_Validate.h(126,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+D:\Courses\programming\mohamed abo_hadhood c++\course 11 oop2\Bank System\ConsoleApplication1\Header Files\cls_Input_Validate.h(130,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+D:\Courses\programming\mohamed abo_hadhood c++\course 11 oop2\Bank System\ConsoleApplication1\Header Files\02_Add_New_Client_Screen.h(30,69): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+D:\Courses\programming\mohamed abo_hadhood c++\course 11 oop2\Bank System\ConsoleApplication1\Header Files\04_Update_Client_Screen.h(28,69): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+D:\Courses\programming\mohamed abo_hadhood c++\course 11 oop2\Bank System\ConsoleApplication1\Header Files\Log_In.h(62,1): warning C4715: 'CLS_Log_In::_Log_In': not all control paths return a value
+D:\Courses\programming\mohamed abo_hadhood c++\course 11 oop2\Bank System\ConsoleApplication1\Header Files\Bank_Client.h(315,1): warning C4715: 'CLS_Bank_Client::Save': not all control paths return a value
+D:\Courses\programming\mohamed abo_hadhood c++\course 11 oop2\Bank System\ConsoleApplication1\Header Files\Bank_Client.h(387,1): warning C4715: 'CLS_Bank_Client::Transfer': not all control paths return a value
+D:\Courses\programming\mohamed abo_hadhood c++\course 11 oop2\Bank System\ConsoleApplication1\Header Files\Bank_User.h(299,1): warning C4715: 'CLS_Bank_User::Save': not all control paths return a value
+  ConsoleApplication1.vcxproj -> D:\Courses\programming\mohamed abo_hadhood c++\course 11 oop2\Bank System\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
