@@ -1,5 +1,7 @@
 # simple-bank-OOP
 hello , this is simple bank project with c++ using OOP.
+every class is seperated to his own header file , you will find them all in header files folder.
+also you will find some headers like (string , date , input validate) i used these files to make it easier 
 first of all you have to login to the system (you can use username: admin / and password: admin) to login at the first time and you will have a full access
 you will the main screen and you have 9 options: 
                                                    [1] Show Client List.
